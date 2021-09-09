@@ -1,0 +1,63 @@
+body {
+font-family: 'Montserrat', sans-serif;}
+
+
+li {
+  display: inline;
+  font-size: 14px;
+  padding: px;
+  font-family: Montserrat;
+
+
+}
+a {
+  padding: 60px;
+  text-decoration: none;
+  color: black;
+  font-size: bolder;
+
+
+
+
+}
+ul {
+  padding-top: 40px;
+
+}
+.col-lg-6 h3 {
+  padding: 10px;
+  margin-left: 50px;
+}
+.center {
+  text-align: center;
+}
+.widthh{
+  text-align: center;
+}
+.image1 {
+  width: 100%;
+
+}
+.image2 {
+  width: 100%;
+}
+.read {
+  background-color: #FF8B00;
+  color: white;
+  padding: 15px;
+}
+span {
+  color: #FF6300;
+}
+.rowww{
+  display: flex;
+}
+.contact {
+  background-color: #3C98FF;
+  color: white;
+  padding: 7px;
+  border-radius: 10px;
+}
+.contacts {
+  color: white;
+}
