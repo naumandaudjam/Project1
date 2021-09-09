@@ -1,0 +1,63 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+
+}
+ul {
+  text-align: right;
+  padding: 10px;
+}
+
+.all {
+  color: #fcae61;
+}
+li {
+  display: inline;
+
+}
+li a {
+  text-decoration: none;
+  padding: 7px;
+  font-weight: bold;
+  color: black;
+
+
+}
+.try {
+  background-color: #4576FC;
+  color: white;
+  border-radius: 7px;
+}
+a {
+  text-decoration: none;
+}
+h4 {
+  color: black;
+}
+.image1{
+  width: 100%;
+}
+.image11{
+  width: 75%;
+}
+.learnn {
+  color: #fcae61;
+  font-weight: bolder;
+}
+.imgcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.faculty {
+  background-color: #4576FC;
+  padding: 3px;
+  border-radius: 7px;
+  color: white;
+}
+.image12 {
+  width: 70%;
+}
+.icons {
+  
+}
